@@ -1,2 +1,2 @@
-# CSCI3251_BingrunLI
-For CSCI3251
+Bingrun LI: Hello, I'm Bingrun LI!
+1155210918: My Student number is 1155210918！
